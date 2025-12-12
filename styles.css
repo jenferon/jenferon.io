@@ -1,14 +1,14 @@
 body{
     margin: 0;
-    background: lightcyan;
+    background: rgb(119, 0, 89);
     text-align: center; 
 
 }
 /* style the header */
 .header {
-  padding: 80px; /* some padding */
+  padding: 40px; /* some padding */
   text-align: center; /* center the text */
-  background: lavender; /* green background */
+  background: rgb(226, 194, 226); /* green background */
   color: black; /* white text color */
 }
 
@@ -16,11 +16,7 @@ body{
 .header h1 {
   font-size: 40px;
 }
-/* Style the top navigation bar */
-.navbar {
-  overflow: hidden; /* Hide overflow */
-  background-color:darkcyan; /* Dark background color */
-}
+
 ul {
   list-style-type: none;
   margin: 0;
