@@ -22,7 +22,7 @@ nav {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  width: 130px;
+  width: 80px;
   background-color: rgb(119, 0, 89); 
   height: 100%; /* Full height */
   position: fixed; /* Make it stick, even on scroll */
