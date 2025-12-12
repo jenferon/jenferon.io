@@ -1,15 +1,16 @@
 body{
     margin: 0;
-    background: rgb(119, 0, 89);
+    background:  rgb(226, 194, 226);
     text-align: center; 
 
 }
 /* style the header */
 .header {
-  padding: 40px; /* some padding */
-  text-align: center; /* center the text */
-  background: rgb(226, 194, 226); /* green background */
-  color: black; /* white text color */
+  padding: 40px; 
+  text-align: center;
+  background:rgb(119, 0, 89); 
+  color: black; 
+  font-style: Monaco;
 }
 
 /* Increase the font size of the <h1> element */
